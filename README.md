@@ -6,5 +6,7 @@ You will also find my handmade theory cheatsheet for the course in the "cheatshe
 
 The code is really self explanatory, while the report actually contains all the details regarding the project.
 
+There is also the presentation that we used for the final exam, it is a good summary of the report and the project.
+
 This project has been developed in collaboration with [Gianmarco Scarano].
 
